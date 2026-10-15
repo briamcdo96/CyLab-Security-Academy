@@ -1,3 +1,8 @@
+Challenge Title: Trust But Verify
+Challenge Type: Artificial Intelligence
+Challenge Difficulty: Easy
+Completion time: 5 minitues
+
 Goal: Play through an AI ethics interactive fiction where confident AI outputs can be wrong, subtly wrong, or almost-right. Verify claims, code, and citations to learn practical habits for safe AI-assisted work.
 
 Entered the following into the shell: nc chatelaine.cylabacademy.net 12873 to begin the CTF
@@ -24,3 +29,5 @@ Observations
     Selecting B
 
   Found the following flag: academy{7ru57_15_34rn3d_65d5434b}
+
+Lessions Learned: Do NOT always trust AI prompts when provided, always validate the data being displayed before utilizing it. 
