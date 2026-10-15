@@ -1,1 +1,26 @@
+Goal: Play through an AI ethics interactive fiction where confident AI outputs can be wrong, subtly wrong, or almost-right. Verify claims, code, and citations to learn practical habits for safe AI-assisted work.
 
+Entered the following into the shell: nc chatelaine.cylabacademy.net 12873 to begin the CTF
+
+Observations
+  Appears we are walking through how to utilize AI
+    Options Presented: After AI announced 500M metric tons of plastic in the sea
+      A: Type it directly into the proposal, it sounds right
+      B: Ask Aria for the exact source link before using it
+      C: Look it up independently first. 
+
+    Selecting C
+
+    Options Presented: Proving an Array using python formatting
+      A: Run it immediatley, ARIA Wrote it, it's probably fine
+      B: Read through it carefully before running. 
+
+    Selecting B
+
+    Options Presented: Closing statment made by AI
+      A: Use it, it's too speicifc to be wrong
+      B: Verify it anyways
+
+    Selecting B
+
+  Found the following flag: academy{7ru57_15_34rn3d_65d5434b}
